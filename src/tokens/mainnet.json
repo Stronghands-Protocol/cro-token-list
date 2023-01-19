@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 25,
     "logoURI": "https://raw.githubusercontent.com/Stronghands-Protocol/assets/master/tokens/cro/0xf78a326ACd53651F8dF5D8b137295e434B7c8ba5/logo.png"
+  },
+  {
+    "name": "Cronos ID",
+    "address": "0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7",
+    "symbol": "CROID",
+    "decimals": 18,
+    "chainId": 25,
+    "logoURI": "https://raw.githubusercontent.com/Stronghands-Protocol/assets/master/tokens/cro/0xCbF0ADeA24fd5f32c6e7f0474f0d1b94Ace4E2e7/logo.png"
   }
 ]
